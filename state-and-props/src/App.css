@@ -1,0 +1,70 @@
+.app-container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.page__heading {
+  font-size: 3rem;
+  margin-bottom: 2rem;
+  color: oklch(79.2% 0.209 151.711);
+}
+
+p {
+  font-size: 1.2rem;
+}
+
+.form-container {
+  margin-bottom: 2rem;
+  display: flex;
+  justify-content: space-between;
+}
+
+.form-group {
+  margin-bottom: 1.5rem;
+  text-align: left;
+}
+
+.form-group label {
+  display: block;
+  margin-bottom: 0.5rem;
+  font-weight: 500;
+}
+
+.form-group input[type="text"] {
+  width: 100%;
+  padding: 8px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  font-size: 16px;
+}
+
+.form-group input[type="color"] {
+  width: 100%;
+  height: 40px;
+  padding: 2px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.form-group input[type="range"] {
+  width: 100%;
+  margin: 10px 0;
+}
+
+.button-container {
+  margin-top: 2rem;
+}
+
+.homework__heading {
+  color: oklch(70.5% 0.213 47.604);
+  font-size: 3rem;
+}
+
+.homework__container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
