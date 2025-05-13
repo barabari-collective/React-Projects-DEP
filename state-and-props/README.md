@@ -2,6 +2,8 @@
 
 This project demonstrates the fundamental concepts of React state management and props through interactive components. It's built using React + TypeScript + Vite.
 
+![image](https://github.com/user-attachments/assets/cfa46f09-e08f-4cbe-a260-572581f23481)
+
 ## Project Overview
 
 This interactive demo showcases how React state and props work together through two main components:
