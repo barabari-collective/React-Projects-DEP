@@ -1,0 +1,24 @@
+
+.todo-list {
+  max-width: 400px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+
+.todo-list li {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px;
+}
+
+.todo-list li.checkListStatus {
+  text-decoration: line-through;
+  color: #000000;
+}
+
+.todo-list li button {
+  background-color: #dc3545;
+  color: white;
+}
